@@ -4,6 +4,8 @@ Plant Species Classification app created with Python as a semester project for I
 
 # Libraries
 
+Project is created with the use of the following libraries:
+
 - opencv
 - mahotas
 - scikit-learn
